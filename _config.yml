@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Behold\: a featherless biped.
-description: A blog about machine learning and stuff but mostly just whatever
-github_username: sharpest-marble
+title: "Behold: a featherless biped.:
+description: "A blog about machine learning and stuff but mostly just whatever"
+github_username: "sharpest-marble"
 
 # Email and twitter are optional:
 email:
