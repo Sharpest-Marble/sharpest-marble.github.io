@@ -1,4 +1,6 @@
-permalink: /.well-known/
+---
+permalink: /.well-known/stellar.toml/
+---
 
 # elliecoin steller toml
 VERSION= "2.0.0"
