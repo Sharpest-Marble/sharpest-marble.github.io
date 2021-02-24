@@ -21,10 +21,7 @@ use_math: true
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
-
-minima:
-  skin: dark
+theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-feed
@@ -33,7 +30,7 @@ plugins:
   - jekyll-github-metadata
 
 titles_from_headings:
-  enabled:     true
+  enabled: true
   strip_title: true
   collections: true
 
