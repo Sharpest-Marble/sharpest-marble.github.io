@@ -9,5 +9,3 @@ You can include images:
 ![Image of fast.ai logo](images/logo.png)
 
 [link to fast.ai](https://www.fast.ai)
-
-Posts will appear after this file. 
