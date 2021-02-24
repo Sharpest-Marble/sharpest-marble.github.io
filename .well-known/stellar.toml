@@ -1,0 +1,12 @@
+# elliecoin steller toml
+VERSION= "2.0.0"
+
+ACCOUNTS=[
+    "GDDXH3Z5G5KWTTNRCPRV574MBJ7VF6ARXNQNJ4FSZZCTBOOE3VJVXOJK",
+    "GA2ZG5CI3UO7JJ5GIMACMVGPUR5UDDWRQGLED6Y632WTFPOBUBXXD5FW"
+]
+
+[DOCUMENTATION]
+ORG_NAME="elliot"
+ORG_URL="https://sharpest-marble.github.io/"
+ORG_LOGO="https://sharpest-marble.github.io/ellie_logo"
