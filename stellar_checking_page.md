@@ -1,5 +1,5 @@
 ---
-permalink: /.well-known/stellar.md
+permalink: /.well-known/stellar.html
 ---
 
 # testing changing file structure
