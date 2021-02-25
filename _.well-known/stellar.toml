@@ -1,7 +1,3 @@
----
-permalink: /.well-known/stellar.toml/
----
-
 # elliecoin steller toml
 VERSION= "2.0.0"
 
@@ -12,5 +8,9 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="elliot"
-ORG_URL="https://sharpest-marble.github.io/"
-ORG_LOGO="https://sharpest-marble.github.io/ellie_logo"
+ORG_URL=""
+ORG_LOGO=""
+ORG_DESCRIPTION="im just a person making a coin for me do not use this"
+ORG_PHYSICAL_ADDRESS="somewhere in california"
+ORG_PHONE_NUMBER="1 (831)-252-0604"
+ORG_OFFICIAL_EMAIL="lord.elliot.the.great@gmail.com"
